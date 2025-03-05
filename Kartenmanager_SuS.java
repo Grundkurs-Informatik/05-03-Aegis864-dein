@@ -12,6 +12,7 @@ import sum.strukturen.*;
  * - Sortieren/Erneuern (Platzhalter) 
  * - Zeichnen ab y=150
  */
+//testtest
 public class Kartenmanager_SuS extends Grafik {
 
     // -----------------------------
