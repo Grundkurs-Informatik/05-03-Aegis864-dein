@@ -12,7 +12,7 @@ import sum.strukturen.*;
  * - Sortieren/Erneuern (Platzhalter) 
  * - Zeichnen ab y=150
  */
-public class Kartenmanager_SuS extends Grafik {
+public class Kartenmanager_SuS extends Ereignisanwendung {
 
     // -----------------------------
     // 1) GUI-Objekte
