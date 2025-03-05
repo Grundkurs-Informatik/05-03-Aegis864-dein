@@ -17,7 +17,7 @@ public class Grafik extends Ereignisanwendung
     double[] MergeSave;
     double[] InsertSave;
     int stepos;
-
+//test
     // Konstruktor
     public Grafik()
     {
